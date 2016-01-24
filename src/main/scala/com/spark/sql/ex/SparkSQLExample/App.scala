@@ -16,13 +16,15 @@ object App {
 
     val sc = new SparkContext(conf)
 
-    val col = sc.parallelize(0 to 100 by 5)
-    val smp = col.sample(true, 4)
-    val colCount = col.count
-    val smpCount = smp.count
+    val col = sc.parallelize(0 to 100)
     
-    println("orig count = " + colCount)
-    println("sampled count = " + smpCount)
+    col.foreach { println }
+    /*val smp = col.sample(true, 4)
+    val colCount = col.count
+    val smpCount = smp.count*/
+    
+    /*println("orig count = " + colCount)
+    println("sampled count = " + smpCount)*/
   }
 
 }
