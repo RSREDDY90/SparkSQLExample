@@ -1,0 +1,3 @@
+http://badrit.com/blog/2015/2/29/running-spark-on-yarn#.VojBIvl97IU
+
+https://dzone.com/refcardz/apache-spark

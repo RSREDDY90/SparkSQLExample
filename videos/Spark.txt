@@ -1,0 +1,41 @@
+spark plugin:
+-------------
+
+http://www.ai.sri.com/~spark/eclipse/doc/spark-ide-install.html
+
+spark example:
+--------------
+http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark.php
+
+transformation examples:
+
+http://www.supergloo.com/fieldnotes/category/spark/
+
+
+http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html
+
+Actions:
+---------
+
+http://www.supergloo.com/fieldnotes/apache-spark-examples-of-actions/
+
+
+examples:
+----------
+https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark
+
+github:
+-------
+
+https://gist.github.com/ceteri
+
+
+Spark Archiecture:
+-------------------
+
+http://0x0fff.com/spark-architecture-shuffle/
+
+
+Spark Partitions:
+-----------------
+http://www.bigsynapse.com/spark-input-output
